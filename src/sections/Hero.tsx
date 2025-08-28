@@ -68,7 +68,7 @@ export default function Hero() {
           </div>
           <div className="mt-8">
             <p className="text-left text-xl text-[#3d3d3d]/60 font-bold">
-              - "Turning ideas into interactive experiences, one pixel at a time."
+              - &quot;Turning ideas into interactive experiences, one pixel at a time.&quot;
             </p>
           </div>
         </div>
